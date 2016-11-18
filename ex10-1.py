@@ -1,0 +1,5 @@
+print "I like \' pie."
+print "I like \" pie."
+print "I like \a pie."
+print "I like \b pie."
+print "I like \f pie."
